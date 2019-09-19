@@ -5,13 +5,13 @@
 2. The Red River Gorge is famous around the world for climbing and hiking.
 3. The Gorge was almost turned into a man-made lake in the 1960s with the proposal of a dam. 
 
-[I'm a big fan of old maps.]
-(hhttps://www.nateshivar.com/888/2-really-cool-old-maps/)
+[The Red River Gorge happens to be one of my favorite hiking locations.]
+(http://redrivergorge.weebly.com/maps.html)
 
-![Cool Old Map](https://www.nateshivar.com/wp-content/uploads/2012/09/Map-of-USA-in-1844.jpg)
+![Topographic Map of RRG](http://redrivergorge.weebly.com/uploads/1/9/1/3/19131269/9230352_orig.jpg)
 
 
 ### Conner Ledington
 ### Sources
-1. https://www.nateshivar.com/888/2-really-cool-old-maps/
+1. http://redrivergorge.weebly.com/maps.html
 2. https://roadsriversandtrails.com/rrt_adventures/10-things-you-didnt-know-about-red-river-gorge/
