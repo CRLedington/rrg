@@ -1,19 +1,17 @@
-# Add a name...
+# Kentucky's Red River Gorge
 
-## Part I
+## What is the Red River Gorge?
+1. Red River Gorge National Geological Area is a National Natural Landmark which is a part of the Daniel Boone National Forest.
+2. The Red River Gorge is famous around the world for climbing and hiking.
+3. The Gorge was almost turned into a man-made lake in the 1960s with the proposal of a dam. 
 
-This is a folder and readme.md on your *rrg* repo, so yes!
+[The Red River Goarge happens to be one of my favorite hiking locations.]
+(http://redrivergorge.weebly.com/maps.html)
 
-## Requirements of Part II
+![Topographic Map of RRG](http://redrivergorge.weebly.com/uploads/1/9/1/3/19131269/9230352_orig.jpg)
 
-1. Add a title to your page using an Heading 1 tag (#).
-2. Do a little research about the Red River 
-3. Gorge and describe two facts about this area.
-4. Put a Heading 2 tag (##) with a good title before each text block.
-5. Provide one link to an interesting map you find online.
-6. Add one photograph.
-7. Add your name and the sources you used for reference.
 
-## Part III
-
-Does this work: [https://crledington.github.io/rrg](https://crledington.github.io/rrg)
+### Conner Ledington
+### Sources
+1. http://redrivergorge.weebly.com/maps.html
+2. https://roadsriversandtrails.com/rrt_adventures/10-things-you-didnt-know-about-red-river-gorge/
