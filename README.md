@@ -6,10 +6,12 @@
 3. The Gorge was almost turned into a man-made lake in the 1960s with the proposal of a dam. 
 
 [I'm a big fan of old maps.]
-https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwji2oe6mdnkAhXEZd8KHegCBvkQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.nateshivar.com%2F888%2F2-really-cool-old-maps%2F&psig=AOvVaw0jqX_LgBuYXRQuEjlcZmrj&ust=1568855793126520
+(https://www.nateshivar.com/wp-content/uploads/2012/09/Map-of-USA-in-1844.jpg)
 
-## This is a photograph of what I believe to be a Zebra Swallowtail butterfly which I found at the Red River Gorge last year.
+![Cool Old Map](https://www.nateshivar.com/wp-content/uploads/2012/09/Map-of-USA-in-1844.jpg)
 
 
 ### Conner Ledington
 ### Sources
+1. https://www.nateshivar.com/wp-content/uploads/2012/09/Map-of-USA-in-1844.jpg
+2. https://roadsriversandtrails.com/rrt_adventures/10-things-you-didnt-know-about-red-river-gorge/
