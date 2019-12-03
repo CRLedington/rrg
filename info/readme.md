@@ -9,6 +9,12 @@
 
 ![Topographic Map of RRG](http://redrivergorge.weebly.com/uploads/1/9/1/3/19131269/9230352_orig.jpg)
 
+## Links to maps
+
+* [Map of cliff heights around Courthouse Rock](elevation/layoutLab7CHR.jpg)
+* [Base map of region](basemap/rrg.pdf)
+
+
 
 ### Conner Ledington
 ### Sources
