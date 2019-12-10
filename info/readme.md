@@ -13,7 +13,7 @@
 
 * [Map of cliff heights around Courthouse Rock](../elevation/layoutLab7CHR.jpg)
 * [Base map of region](../basemap/readme.md)
-* [Elevation contours around Courthouse Rock](../map/map.html)
+* [Elevation contours around Courthouse Rock](https://crledington.github.io/rrg/map/map.html)
 
 
 
