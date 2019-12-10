@@ -13,7 +13,7 @@
 ## Links to maps
 
 * [Map of cliff heights around Courthouse Rock](elevation/readme.md)
-* [Field trip photographs](basemap/readme.md)
+* [Field trip photographs and base map](basemap/readme.md)
 * [Elevation contours around Courthouse Rock](https://crledington.github.io/rrg/map/map.html)
 * 3D fly-around of Courthouse Rock [YouTube video](https://www.youtube.com/watch?v=pzKycMSDcwA&feature=youtu.be)  
 
